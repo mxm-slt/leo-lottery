@@ -1,3 +1,5 @@
+Discord: 0xMaSu
+
 # lottery.aleo
 
 ## Run Guide
